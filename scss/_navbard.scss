@@ -1,0 +1,22 @@
+
+.boton input[type="submit"],
+.boton button {
+    background-color: #D81B60;
+    color: white;
+    border: none;
+    padding: 8px 20px;
+}
+
+.boton input[type="submit"]:hover,
+.boton button:hover {
+    background-color: #b5164e;
+}
+
+.navbar .barra {
+    background-color: black;
+}
+
+.navbar .barra a {
+    color: #fafafa;
+}
+
